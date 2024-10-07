@@ -11,7 +11,7 @@ This repository contains a Python script that uses the GPT-2 model to generate c
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/gpt2-content-generator.git
+    git clone https://github.com/zimkk/gpt2-content-generator.git
     cd gpt2-content-generator
     ```
 
